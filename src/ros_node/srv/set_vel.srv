@@ -1,0 +1,7 @@
+int64 id
+float64 v
+float64 vw
+
+---
+
+bool response

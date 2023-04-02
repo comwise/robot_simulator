@@ -1,0 +1,9 @@
+build
+devel
+bin
+lib
+dist
+.github
+.git
+.vscode
+.catkin_workspace
