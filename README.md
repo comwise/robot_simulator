@@ -2,25 +2,26 @@
 robot simulator, can simulate chassis and sensor, you can control chassis motion, safety avoid obstacle, navigation, multiple robot  path plan
 
 # Depend
-ubuntu 16.04
-ros-kinetic ros1
+- ubuntu 16.04
+- ros-kinetic ros 1.0
 
 # How to build
-./script/install_env.sh
-./script/build.sh
+you can use the following script：
+1. ./script/install_env.sh
+2. ./script/build.sh
 or
-you can do the following:
-make -p build && cd build
-cmake ..
-make
+you can do the following by command:
+1. make -p build && cd build
+2. cmake ..
+3. make
 
-# Step
-1. motion
-2. map
-3. nav(path plan)
-4. nav(path trajectory)
-5. test
-6. gui
+# Plan Step
+- motion
+- map
+- nav(path plan)
+- nav(path trajectory)
+- test
+- gui
 
 # R&A
 todo
