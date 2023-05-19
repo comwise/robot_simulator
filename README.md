@@ -6,11 +6,10 @@ robot simulator, can simulate chassis and sensor, you can control chassis motion
 - ros-kinetic ros 1.0
 
 # How to build
-you can use the following script：
+- you can use the following script：
 1. ./script/install_env.sh
 2. ./script/build.sh
-or
-you can do the following by command:
+- you can do the following by command:
 1. make -p build && cd build
 2. cmake ..
 3. make
